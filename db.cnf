@@ -1,0 +1,7 @@
+[client]
+database = storyCollectionSiteDB
+user = fsAdmin
+password = fsPassword
+default-character-set = utf8
+host = localhost
+port = 33061
